@@ -28,7 +28,7 @@ environment for exploring CiviCRM, install your own test site or try [CiviCRM Sp
 
 [CiviCRM Spark](https://civicrm.org/spark) can be used as a half-way step between 
 the free public demonstration sites and setting up a full CiviCRM installation. 
-With [CiviCRM Spark](https://civicrm.org/spark) you can get up-and-running in 
+With [CiviCRM Spark](https://civicrm.org/spark) you can get up and running in 
 minutes on SAS hosting. CiviCRM Spark starts from $9.50 a month, and you can cancel at 
 any time. This method can be a quick way for testing and trialing CiviCRM, or for on-going
 use by smaller organizations and activities with up to 2,000 contacts.
