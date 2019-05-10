@@ -1,6 +1,6 @@
 # Test it out
 
-## Free Demonstration sites
+## Free Public Demonstration sites
 
 CiviCRM hosts several demo sites - there is at least one for each of the
 supported **Content Management Systems** (CMS) - Drupal, Joomla, and
@@ -22,9 +22,9 @@ online payment options.
 
 If you are having trouble working on a demo site, contact the CiviCRM
 [Core Team](https://civicrm.org/teams/core-team). If you want a more controlled
-environment for exploring CiviCRM, install your own test site or try CiviCRM Spark.
+environment for exploring CiviCRM, install your own test site or try [CiviCRM Spark](https://civicrm.org/spark).
 
-## Using CiviCRM Spark as a private demonstration site
+## CiviCRM Spark as a private demonstration site
 
 [CiviCRM Spark](https://civicrm.org/spark) can be used as a half-way step between 
 the free public demonstration sites and setting up a private full CiviCRM installation. 
