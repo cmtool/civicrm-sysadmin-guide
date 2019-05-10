@@ -1,6 +1,6 @@
 # Test it out
 
-## Free Public Demonstration sites
+## Free public demonstration sites
 
 CiviCRM hosts several demo sites - there is at least one for each of the
 supported **Content Management Systems** (CMS) - Drupal, Joomla, and
