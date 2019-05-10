@@ -3,7 +3,7 @@
 ## Free public demonstration sites
 
 CiviCRM hosts several demo sites - there is at least one for each of the
-supported **Content Management Systems** (CMS) - Drupal, Joomla, and
+supported **Content Management Systems** (CMS) - Backdrop, Drupal, Joomla, and
 WordPress. The demo sites present a working copy of the latest stable
 version of CiviCRM with sample data. You can use them to play around
 with CiviCRM, but be aware that they are publicly viewable so you
