@@ -1,14 +1,15 @@
 # Choosing your CMS
 
-CiviCRM works with several popular open source Content Management Systems (CMS)<sup><a href="#1">1</a></sup>.
+CiviCRM works with several popular open source Content Management Systems (CMS)<sup><a href="#1">1</a></sup>. 
 
 -   Drupal
 -   Backdrop CMS
 -   Joomla
 -   WordPress
 
-The [CiviCRM Statistics](https://stats.civicrm.org/?tab=sites) site offers
-an overview of current CMS usage. Before starting a project you 
+[CiviCRM Statistics](https://stats.civicrm.org/?tab=sites) offers an overview of current CMS usage. 
+
+Before starting a project you 
 should consider how you plan to use CiviCRM both now and in the future. 
 Two big questions are; How much information from CiviCRM do we want to 
 display on our website (e.g. A live list of our current members)? What 
