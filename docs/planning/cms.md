@@ -7,14 +7,15 @@ CiviCRM works with several popular open source Content Management Systems (CMS)<
 -   Joomla
 -   WordPress
 
-Before starting a project you should consider how you plan to use
-CiviCRM both now and in the future. Two big questions are; How much
-information from CiviCRM do we want to display on our website (e.g. A
-live list of our current members)? What information, collected through
-our website, do we want to store in CiviCRM (e.g. Family data from a
-public form with the family relationships automatically added). This is
-known as integration. How much integration you require will help you
-determine which is the best CMS for you.
+The [CiviCRM Statistics](https://stats.civicrm.org/?tab=sites) site offers
+an overview of current CMS usage. Before starting a project you 
+should consider how you plan to use CiviCRM both now and in the future. 
+Two big questions are; How much information from CiviCRM do we want to 
+display on our website (e.g. A live list of our current members)? What 
+information, collected through our website, do we want to store in CiviCRM 
+(e.g. Family data from a public form with the family relationships 
+automatically added). This is known as integration. How much integration 
+you require will help you determine which is the best CMS for you.
 
 You may also choose a CMS because you already know how to use it or it
 is already used by your organisation. Each CMS has different advantages
